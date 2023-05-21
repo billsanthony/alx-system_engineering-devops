@@ -1,5 +1,5 @@
 Concepts
-For this project, we expect you to look at these concepts:
+For this project, anthonypaul.tech will use these concepts:
 
 DNS
 Web stack debugging
